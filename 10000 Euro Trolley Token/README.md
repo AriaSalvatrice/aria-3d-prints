@@ -24,7 +24,7 @@ To achieve the intended results, first decide which file to print.
   - and the local shops accept 2 euro coins: `10000 Euro Trolley Token (2 euro coin size, thicker).stl`.
   - and the local shops require 1 euro coins: `10000 Euro Trolley Token (1 euro coin size, thicker).stl`.
 
-If you don't have precise calipers to verify, you can simply compare a test print with a real coin. If you printing this item too thin, the handle will not be robust enough to use on a keychain.
+If you don't have precise calipers to verify, you can simply compare a test print with a real coin. If you print this item too thin, the handle will not be robust enough to use on a keychain.
 
 In your slicer, you will need to program **two different color changes**, which may require a custom firmware for your printer to support the [M600 GCode](https://marlinfw.org/docs/gcode/M600.html).
 
