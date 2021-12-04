@@ -34,7 +34,7 @@ In your slicer, you will need to program **two different color changes**, which 
 
 Here's how it should look:
 
-![Example of color change](color-change.png)
+![Example of color change](color-change.jpg)
 
 You should probably use 100% infill (it makes almost no difference in material used), a small nozzle (0.4mm or less), and a low layer height. I printed the ones you saw in the pictures with PLA, on a 0.4mm nozzle, with 0.1mm layers, on a Creality Ender 3 V2. I also enabled ironing in Prusa Slicer for a smoother finish.
 
