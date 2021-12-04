@@ -1,7 +1,7 @@
 9V Battery holder with built-in switch
 ======================================
 
-This little base for a 9V battery is ideal to experiment with electronics you want to power cycle frequenly. 
+This little base for a 9V battery is ideal to experiment with electronics you want to power cycle frequently. 
 
 License: CC-BY-NC-SA 4.0
 
