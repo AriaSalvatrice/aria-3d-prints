@@ -13,7 +13,7 @@ Prints of this item have been used successfully to liberate multiple shopping ca
 
 ![Unlocking a trolley](unlocking.jpg)
 
-This is not the easiest item to print, and you will find many simpler trolley token designs online. 
+This is not the easiest item to print, and it can be unforgiving on poorly tuned printers. You will find many simpler trolley token designs online. 
 
 To achieve the intended results, first decide which file to print.
 
@@ -37,8 +37,6 @@ Here's how it should look:
 ![Example of color change](color-change.jpg)
 
 You should probably use 100% infill (it makes almost no difference in material used), a small nozzle (0.4mm or less), and a low layer height. I printed the ones you saw in the pictures with PLA, on a 0.4mm nozzle, with 0.1mm layers, on a Creality Ender 3 V2. I also enabled ironing in Prusa Slicer for a smoother finish.
-
-If you print the 1 euro version, I suggest using a smaller nozzle than 0.4mm, or the details won't come out right.
 
 As tempting as it might be to print a sheet of 240,000 Euros for less than 1 Euro worth of filament, I suggest testing a single print in a local store before before you start counterfeiting too much legal tender. 
 
