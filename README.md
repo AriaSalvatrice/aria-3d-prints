@@ -5,7 +5,8 @@ Hiya hello hi what's the happs love. Here's some random garbage I saw fit to inf
 
 - [9V Battery holder with built-in switch](9V%20Battery%20holder%20with%20built-in%20switch/)
 - [10,000 Euro Coin Trolley / Shopping Cart Token](10000%20Euro%20Trolley%20Token/)
-- [Desktop Computer Combined SD, Micro-SD, and USB Holder](Desktop%20Computer%20Combined%20SD%20Micro-SD%20and%20USB%20Holder/)
+- [Desktop Computer Combined SD, Micro-SD, and USB Holder](Desktop%20Computer%20Combined%20SD%20Micro-SD%20and%20USB%20Holder/) [WIP]
+- [Drill Spool Adapter Bit for Filament Respooling](Drill%20Spool%20Adapter%20Bit%20for%20Filament%20Respooling/)
 
 ![My dog, observing all my failed prints](puppy.jpg)
 
