@@ -9,7 +9,7 @@ License: CC-BY-NC-SA 4.0
 
 At 25.75mmØ, the recommended file to print is about as wide as a 2 euro coin, and at 2.4mm, about as tall as a 50 cents coin. Most European trolleys are set up to accept 50 cents, 1 euro, and 2 euro coins. If some local shops will only accept a 1 euro coin, you can print the 1 euro version instead.
 
-Prints of this item have been used successfully to liberate multiple shopping carts in France. Using the handle, you might be able to retrieve the token after unlocking some trolleys. **Be responsible and bring it back regardless**.
+Prints of all versions of this item have been used successfully to liberate multiple shopping carts in France. Using the handle, you might be able to retrieve the token after unlocking some trolleys. **Be responsible and bring it back regardless**.
 
 ![Unlocking a trolley](unlocking.jpg)
 
