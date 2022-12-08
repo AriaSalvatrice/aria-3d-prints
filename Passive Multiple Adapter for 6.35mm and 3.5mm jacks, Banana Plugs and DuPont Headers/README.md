@@ -33,7 +33,7 @@ You need:
 
 First, print both the `Box.stl` and the `Top Plate.stl`. If you know you will never use Banana connectors, print instead `Top Plate (No Ground Connector).stl`: you can use twice as many small jacks, the holes are the same size, and you don't need an additional hole for the ground with jacks. The files include enough tolerances to account for thermal expansion and bridge droop, and should be printed at 100% size.
 
-I recomment printing the top plate with PETG for solidity and compliance, but the item won't bend that much in use, so PLA should work fine too. Use 100% infill for the top plate.
+I recommend printing the top plate with PETG for solidity and compliance, but the item won't bend that much in use, so PLA should work fine too. Use 100% infill for the top plate.
 
 For the box, use whatever filament or infill you want. No need for supports. 
 
