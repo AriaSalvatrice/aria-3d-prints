@@ -13,7 +13,7 @@ I've been getting into building DIY synthesizers recently, and way too often, I 
 
 Here's step-by-step instructions how to build it:
 
-## 1. Bill of Materials
+## Bill of Materials
 
 ![Illustrated BOM](BOM.jpg)
 
@@ -27,7 +27,7 @@ You need:
 - 5 banana connectors
 - wire and soldering supplies
 
-### 2. Building
+## Building
 
 ![The printed parts](Printed%20parts.jpg)
 
