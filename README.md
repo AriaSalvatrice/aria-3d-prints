@@ -10,6 +10,8 @@ Contact me if you want the STL of other stuff you saw me make, but bear in mind 
 - [Desktop Computer Combined SD, Micro-SD, and USB Holder](Desktop%20Computer%20Combined%20SD%20Micro-SD%20and%20USB%20Holder/) [WIP]
 - [Drill Spool Adapter Bit for Filament Respooling](Drill%20Spool%20Adapter%20Bit%20for%20Filament%20Respooling/)
 - [Eggbug Figure](Eggbug%20Figure/) - the mascot of [Cohost](https://cohost.org/)
+- [Passive Multiple Adapter for 6.35mm and 3.5mm jacks, Banana Plugs and DuPont Headers](Passive%20Multiple%20Adapter%20for%206.35mm%20and%203.5mm%20jacks,%20Banana%20Plugs%20and%20DuPont%20Headers/)
+
 
 ![My dog, observing my failed prints](puppy.jpg)
 
