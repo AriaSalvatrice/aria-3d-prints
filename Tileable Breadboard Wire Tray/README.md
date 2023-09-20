@@ -4,8 +4,6 @@ A tray for your leads, sorted by size, with little rulers on the side. It's the 
 
 License: CC-BY-NC-SA 4.0.
 
-![?](.jpg)
-
 ![Both versions, next to breadboards](both.jpg)
 
 The first two columns have compartments for leads sized from 1 pin to 10 pins, with a ruler on the size to measure quickly. Past those sizes, I find it less crucial to have perfect measurements. All the compartments should be big enough to grab stuff with your fingers, if so inclined. There's also a bunch of holes in the bottom, you can use them as parking space, or as a small soldering jig.
