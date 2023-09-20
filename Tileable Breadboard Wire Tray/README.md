@@ -1,6 +1,6 @@
 # Tileable Breadboard Wire Tray
 
-A tray for your leads, sorted by size, with little rulers on the side. It's the size of two breadboards, and has notches to tile with them.
+A tray for your leads, sorted by size, with little rulers on the side. It's the same size as breadboards, and has notches to tile with them.
 
 License: CC-BY-NC-SA 4.0.
 
