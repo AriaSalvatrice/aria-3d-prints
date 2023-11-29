@@ -7,6 +7,7 @@ Contact me if you want the STL of other stuff you saw me make, but bear in mind 
 - [9V Battery holder with built-in switch](9V%20Battery%20holder%20with%20built-in%20switch/)
 - [10,000 Euro Coin Trolley / Shopping Cart Token](10000%20Euro%20Trolley%20Token/)
 - [Drill Spool Adapter Bit for Filament Respooling](Drill%20Spool%20Adapter%20Bit%20for%20Filament%20Respooling/)
+- [Parametric IDC Connector Cover for 10-pin and 16-pin Shrouded Eurorack Header](Parametric%20IDC%20Connector%20Cover%20for%2010-pin%20and%2016-pin%20Shrouded%20Eurorack%20Header)
 - [Passive Multiple Adapter for 6.35mm and 3.5mm jacks, Banana Plugs and DuPont Headers](Passive%20Multiple%20Adapter%20for%206.35mm%20and%203.5mm%20jacks,%20Banana%20Plugs%20and%20DuPont%20Headers/)
 - [Tileable Breadboard Wire Tray](Tileable%20Breadboard%20Wire%20Tray/)
 
